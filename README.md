@@ -7,7 +7,7 @@ Once Helm has been set up correctly, add the repo as follows:
 
 ```
 
-  helm repo add airbyte-oss https://airbytehq.github.io/helm-charts
+  helm repo add airbyte-oss https://ingo-m.github.io/helm-charts
 ```
 
 If you had already added this repo earlier, run `helm repo update` to retrieve
